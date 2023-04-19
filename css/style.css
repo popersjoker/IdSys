@@ -1,0 +1,129 @@
+@charset "UTF-8";
+
+        .fun {
+            line-height: 120px;
+            text-align: center;
+            text-shadow: blue;
+            margin-top:5%;
+            margin-left: 15%;
+            vertical-align: bottom;
+            display: inline-block;
+            width: 10%;
+            height: 30%;
+           background-color:orange;
+            border: 1px solid black;
+        }
+
+  
+  
+
+
+
+        .right {
+            font-size: 12px;
+            letter-spacing: 1px;
+            float: right;
+        }
+              * {
+            padding: 0;
+            margin: 0;
+        }
+
+        .header {
+            height: 20%;
+            background-color: #fff;
+        }
+
+       
+
+        .midtop,
+        .mid,.footer {
+            margin: auto;
+            width: 80%;
+
+        }
+
+        .mid {
+            height: 50%;
+            background-color: blue;
+        }
+
+        .footer {
+            background-color: white;
+            height: 10%;
+        }
+
+        html,
+        body,
+        .outer {
+            height: 100%;
+            width: 100%;
+        }
+
+        html {
+            background-color: rgb(230, 220, 220);
+        }
+
+        .foot,
+        .foot2 {
+            font-family: "宋体";
+        }
+
+        .foot {
+            position: relative;
+            letter-spacing: 10px;
+            font-size: 20px;
+            top: 70px;
+            left: 200px;
+            color: blue;
+        }
+
+        .foot2 {
+            position: relative;
+            letter-spacing: 10px;
+            font-size: 20px;
+            top: 70px;
+            font-weight: 400;
+            left: 225px;
+            color: blue;
+        }
+
+        .loser {
+            /* margin-top: 200px; */
+            /* margin-top: 13px; */
+            margin-left: 200px;
+            height: 100%;
+            position: relative;
+            top: 20%;
+        }
+ .midtop {
+            height: 20%;
+            /* background-color: white; */
+            background-color: rgb(27, 28, 78);
+        }
+        input[type="text"] {
+            width: 50%;
+            height: 30px;
+            border-radius: 5px 0 0 5px;
+            top: 20px;
+            position: relative;
+        }
+
+        input[type="submit"] {
+            vertical-align: bottom;
+            position: relative;
+            height: 34px;
+            /* margin-left: 50px; */
+            background-color: blue;
+            width: 100px;
+            border: none;
+            border-radius: 0 5px 5px 0;
+            top: 20px;
+        }
+        .header span 
+        {
+       font-size: 14px;
+    text-tesize: 14px;
+    line-height: 14px;
+    margin-right: 12px;
+        }
